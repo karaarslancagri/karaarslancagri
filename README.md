@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Çağrı
-- 👀 I’m interested in Backend and Games
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Backend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karaarslancagri1@gmail.com
 
