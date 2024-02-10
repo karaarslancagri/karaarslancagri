@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="Pexels'tan Miguel Á. Padriñán fotoğrafı: https://www.pexels.com/tr-tr/fotograf/saat-3-00-gosteren-akilli-telefon-ekrani-2882688/"  />
+  <img height="150" src="https://www.pexels.com/tr-tr/fotograf/saat-3-00-gosteren-akilli-telefon-ekrani-2882688/"  />
 </div>
 
 ###
