@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://www.pexels.com/tr-tr/fotograf/saat-3-00-gosteren-akilli-telefon-ekrani-2882688/](https://images.pexels.com/photos/2882688/pexels-photo-2882688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
-</div>
+
 
 ###
 
